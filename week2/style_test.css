@@ -1,0 +1,29 @@
+
+h1 {
+    color: rgb(255, 192, 203);
+}
+
+p {
+    background-color: rgb(255, 192, 203);
+}
+
+button {
+    background-color: rgb(255, 192, 203);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+button.bg-color {
+    background-color: rgb(142, 8, 31);
+}
+
+button.bg-color2 {
+    background-color: rgb(0, 100, 0);
+}

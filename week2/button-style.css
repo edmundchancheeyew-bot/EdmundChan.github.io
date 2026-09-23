@@ -1,0 +1,66 @@
+
+
+ button {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            cursor: pointer;
+            margin: 5px;
+            font-size: 16px;
+            font-family: Arial, sans-serif;
+        }
+
+        button.request { background-color: #000000; }    
+
+        button.signup { background-color: #4CAF50; } 
+        button.signup{
+            font-weight: bold;
+            border-radius: 10px;
+            border: 2px solid #4CAF50;
+            padding: 10px 20px;
+        }   
+
+        button.cart { background-color: #FFD700; color: #000; }
+        button.cart{
+            font-weight: bold;
+            border-radius: 50px;
+            border: 2px solid #FFD700;
+            padding: 10px 80px;
+        }
+        
+        button.start { background-color: #6e55a7; }
+        button.start{
+            font-weight: bold;
+            border-radius: 5px;
+            border: 2px solid #6e55a7;
+            padding: 10px 30px;
+        }     
+
+        button.download { background-color: #f9f9f9;color: #808080; } 
+        button.download{
+            font-weight: bold;
+            border-radius: 5px;
+            border: 2px solid #808080;
+            padding: 12px 30px;
+        }  
+
+        button.apply { background-color: #3b64b6; } 
+         button.apply{
+            Font-weight: bold;
+            border-radius: 50px;
+            border: 2px solid #3b64b6;
+            padding: 13px 30px;
+        }
+
+        button.save {
+            background-color: #ffffff;
+            color: #007BFF;
+            border-radius: 50px;
+            border: 2px solid #007BFF;
+            font-weight: bold;
+        }
+
+        button.save:hover {
+            background-color: #007BFF;
+            color: white;
+        }
